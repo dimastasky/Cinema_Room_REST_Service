@@ -2,7 +2,6 @@
 
 Hyperskill [Cinema Room REST Service](https://hyperskill.org/) project
 
-
 - **GET /seats** - to get JSON with all seats and their status;
 - **POST /purchase [row][column]** - to mark seat as purchased and get ticket's token;
 - **POST /return [token]** - to return ticket and mark it ad available;
